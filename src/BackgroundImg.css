@@ -1,0 +1,14 @@
+.background{
+    width: 100vw;
+    height: 100vh;
+}
+.back-cont{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+@media (width <= 1250px){
+    .background{
+        height: auto;
+    }
+}

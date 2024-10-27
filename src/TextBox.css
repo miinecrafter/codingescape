@@ -1,0 +1,17 @@
+*{
+    font-family: monospace;
+}
+.text-cont{
+    width: 30vw;
+    height: 20vh;
+    border: 5px solid white;
+    background-color: rgb(40, 40, 40);
+    padding: 1vw 1vw 1vw 1vw;
+    color: white;
+    font-size: 1.4vw;
+}
+.line{
+    width: 30vw;
+    background-color: white;
+    height: 0.2vh;
+}
